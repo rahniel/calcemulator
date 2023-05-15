@@ -4,10 +4,12 @@ body{
     min-width: 100%;
     background: black;
     text-align: center;
+    text-decoration: none;
+    padding: 0;
+    margin: o;
 }
 #ys{
     border: 30px;
-   
     background-color:#35353b;
     width: 80px;
     height: 80px;
@@ -19,7 +21,7 @@ body{
     color: white;
     cursor: pointer;
     margin-right: 10px;
-    margin-bottom: 35px;
+    margin-bottom: 10px;
     font-weight: bolder;
 }
 #no{
@@ -37,7 +39,7 @@ body{
     color: #eee;
     cursor: pointer;
     margin-right: 10px;
-    margin-bottom: 35px;
+    margin-bottom: 8px;
 }
 #ys1{
     border: 30px;
@@ -52,12 +54,11 @@ body{
     color: white;
     cursor: pointer;
     margin-right: 10px;
-    margin-bottom: 35px;
+    margin-bottom: 10px;
     font-weight: bolder;
 }
 #yss{
     border: 30px;
-   
     background-color:#919197;
     width: 80px;
     height: 80px;
@@ -69,7 +70,7 @@ body{
     color: black;
     cursor: pointer;
     margin-right: 10px;
-    margin-bottom: 35px;
+    margin-bottom: 10px;
     font-weight: bolder;
 }
 
